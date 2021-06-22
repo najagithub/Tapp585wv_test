@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Tapp585wv_test", "Tapp585wv_test\Tapp585wv_test.dtproj", "{4F18AC84-7C57-4516-B23F-18BB49D1E4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F18AC84-7C57-4516-B23F-18BB49D1E4A0}.Development|Default.ActiveCfg = Development
+		{4F18AC84-7C57-4516-B23F-18BB49D1E4A0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C7BE00-70C7-4831-AC7E-F970FDC2EA2F}
+	EndGlobalSection
+EndGlobal
